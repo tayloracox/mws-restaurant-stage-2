@@ -137,7 +137,7 @@
         "name": "Katz's Delicatessen",
         "neighborhood": "Manhattan",
         "photograph": "4",
-        "alt_text": "Exterior of Katz's Delicatessen with People Walking By",
+        "alt_text": "Exterior of Katz's Delicatessen Restaurant with People Walking By",
         "address": "205 E Houston St, New York, NY 10002",
         "latlng": {
           "lat": 40.722216,
@@ -181,7 +181,7 @@
         "name": "Roberta's Pizza",
         "neighborhood": "Brooklyn",
         "photograph": "5",
-        "alt_text": "People Eating Inside Roberta's Pizza with the Cooks in the Background",
+        "alt_text": "People Eating Inside Roberta's Pizza Restaurant with the Cooks in the Background",
         "address": "261 Moore St, Brooklyn, NY 11206",
         "latlng": {
           "lat": 40.705089,
@@ -357,7 +357,7 @@
         "name": "Mu Ramen",
         "neighborhood": "Queens",
         "photograph": "9",
-        "alt_text": "Couple Eating Inside Mu Ramen",
+        "alt_text": "Couple Eating Inside Mu Ramen Restaurant",
         "address": "1209 Jackson Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743797,
